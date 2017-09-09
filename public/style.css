@@ -1,0 +1,19 @@
+body{
+	background-color:grey;
+}
+
+.contact-form {
+	width: 500px;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top: 25%;
+	border: 1px solid grey;
+	border-radius: 5px;
+	padding: 10px 20px 10px 20px;
+	background-color: white
+	
+}
+
+#sendBtn {
+	background-color: yellow;
+}
